@@ -2,6 +2,9 @@
 
 <image src="https://www.codewars.com/users/dezhik74/badges/large" alt="Codewars">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **dezhik74/dezhik74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
