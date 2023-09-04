@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://www.codewars.com/users/dezhik74/badges/small
+
+
 <!--
 **dezhik74/dezhik74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
