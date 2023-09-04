@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://www.codewars.com/users/dezhik74/badges/small
+<image src="https://www.codewars.com/users/dezhik74/badges/small" alt="Codewars">
+
 
 
 <!--
