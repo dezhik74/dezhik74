@@ -2,6 +2,10 @@
 
 <image src="https://www.codewars.com/users/dezhik74/badges/large" alt="Codewars">
 
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dezhik74&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezhik74&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
